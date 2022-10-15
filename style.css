@@ -7,8 +7,20 @@ body {
 
 .hero {
     height: 370px;
-    background-color: #1f2937;
+    /* background-color: #1f2937; */
     padding: 20px 40px;
+    position: relative;
+    overflow: hidden;
+}
+
+.back-video {
+    object-fit: cover;
+    min-width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
 
 .header {
