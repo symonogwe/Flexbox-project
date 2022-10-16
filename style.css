@@ -3,7 +3,7 @@ body {
     margin: 0px;
     padding: 0px;
     max-height: 100vh;
-    
+    flex-shrink: 0;
 }
 
 .hero {
@@ -127,6 +127,11 @@ gap: 30px;
     margin: 80px 200px;
     padding: 20px 0px 20px 40px;
     color: #f9faf8;
+    background-image: url(/images/backhround-image-5.jpg);
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .action-text {
