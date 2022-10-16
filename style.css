@@ -74,6 +74,8 @@ a {
     border-radius: 4px;
     color: #f9faf8;
     background-color: #3882f6;
+    border-color: #3882f6;
+    padding: 0px 20px;
 }
 
 .pic {
@@ -117,4 +119,35 @@ gap: 30px;
 .inspiration-text {
     font-size: 26px;
     color: #1f2937;
+}
+
+.call-action {
+    background-color: #3882f6;
+    margin: 80px 200px;
+    padding: 20px 0px 20px 40px;
+    color: #f9faf8;
+}
+
+.action-text {
+    font-size: 24px;
+    font-weight: 300;
+
+}
+
+.action-below {
+    display: flex;
+    gap: 250px;
+}
+
+.action-button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-color: #f9faf8;
+    border-radius: 10px;
+    padding: 0px 20px;
+}
+
+.action-quote {
+    font-size: 18px;
+    color: #E5E7EB;
 }
