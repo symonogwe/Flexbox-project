@@ -3,6 +3,7 @@ body {
     margin: 0px;
     padding: 0px;
     max-height: 100vh;
+    ;
 }
 
 .hero {
@@ -11,6 +12,7 @@ body {
     padding: 20px 40px;
     position: relative;
     overflow: hidden;
+    margin-bottom: 40px;
 }
 
 .back-video {
@@ -72,5 +74,31 @@ a {
     border-radius: 4px;
     color: #f9faf8;
     background-color: #3882f6;
+}
+
+.pic {
+    width: 200px;
+    height: 150px;
+}
+
+.information {
+    height: 350px;
+}
+
+.info-images {
+display: flex;
+justify-content: center;
+gap: 30px;
+}
+
+.info-text {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.text-photo {
+    text-align: center;
 }
 
