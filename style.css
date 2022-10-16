@@ -3,7 +3,7 @@ body {
     margin: 0px;
     padding: 0px;
     max-height: 100vh;
-    ;
+    
 }
 
 .hero {
@@ -151,3 +151,13 @@ gap: 30px;
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.footer {
+    margin-top: auto;
+    padding: 10px;
+    text-align: center;
+    color: #f9faf8;
+    background-color: #1f2937;
+}
+
+
