@@ -81,6 +81,7 @@ a {
 .pic {
     width: 200px;
     height: 150px;
+    border-radius: 12px;
 }
 
 .information {
