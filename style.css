@@ -102,3 +102,19 @@ gap: 30px;
     text-align: center;
 }
 
+.inspiration {
+    display: flex;
+    height: 250px;
+    padding: 20px 200px;
+    flex-wrap: wrap;
+    background-color: #E5E7EB;
+}
+
+.inspiration-quote {
+    margin-left: 695px;
+}
+
+.inspiration-text {
+    font-size: 26px;
+    color: #1f2937;
+}
